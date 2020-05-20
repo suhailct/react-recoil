@@ -33,7 +33,7 @@ function CharacterCounter() {
   return (
     <div>
       <TextInput />
-      <CharacterCount />
+      {/* <CharacterCount /> */}
     </div>
   );
 }
